@@ -30,4 +30,4 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 
 ## Screenshot-
 
-![image](C:\Users\ABC\OneDrive\Pictures\Screenshots)
+![image](https://ibb.co/HrYf0WJ)
